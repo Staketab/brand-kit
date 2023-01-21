@@ -2,7 +2,7 @@
 
 <div align="left">
 
-Staketab team is engaged in professional validation in various blockchain networks. Our team have experience in staking, nodes configuring, managing snapshots, managing relaying, ICO analysis, block explorers and crypto analytics tools development and many other fields in crypto.
+Staketab is a staking provider. Our team is engaged in professional validation in various blockchain networks. We develop fast and high-quality explorers and other ecosystem tools.
 
 </div>
 
